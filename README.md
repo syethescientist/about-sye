@@ -7,6 +7,8 @@ About Me:
 - 🚀 Currently learning HTML, CSS, JavaScript, and Solidity
 - ⭐ Building daily and sharing my journey here!
 - 🧘‍♀️ Balancing bugs and inner peace, one breath at a time.  
+ 📊 GitHub Stats
+![Sye's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syethescientist&show_icons=true&theme=radical)
 
 
 
